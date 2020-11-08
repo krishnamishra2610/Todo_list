@@ -156,13 +156,16 @@ select {
     background: white;
     color: #ff6f47;
 }
-footer{
-  margin-top: 15px;
-  font-size: 20px;
-  
-  
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    font-size: 20px;
 }
-footer i{
-  color: black;
-  margin: 4px;
-  }
+
+footer i {
+    color: black;
+    margin: 4px;
+}
