@@ -15,6 +15,7 @@ body {
 
 header {
     font-size: 20px;
+    margin-left: 10px;
 }
 
 header,
@@ -31,6 +32,11 @@ form button {
     padding: 5px;
     font-size: 20px;
     background: white;
+    max-width: 60%;
+}
+
+form input {
+    margin-left: 10px;
 }
 
 form button:focus,
